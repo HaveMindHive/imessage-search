@@ -1,0 +1,5 @@
+.build/
+.swiftpm/
+iMessageSearch.app/
+*.pdf
+.DS_Store
